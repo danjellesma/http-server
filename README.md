@@ -24,7 +24,7 @@ Hit CTRL-C to stop the server
 
 You can now visit the site in your web browser:
 
-[![Preview](https://i.sli.mg/COKwJk.png)]
+[![Preview](./preview1.png)]
 
 ## Daemon Mode
 
