@@ -1,5 +1,5 @@
 FROM mhart/alpine-node:latest
-MAINTAINER Dan Jellesma
+LABEL maintainer="Dan Jellesma"
 
 ARG VCS_REF
 ARG BUILD_DATE
