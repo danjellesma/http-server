@@ -4,7 +4,7 @@ LABEL maintainer="Dan Jellesma"
 ARG VCS_REF
 ARG BUILD_DATE
 
-RUN npm i http-server -g
+RUN npm install -g npm@8.14.0 && npm i http-server
 
 RUN mkdir /public
 WORKDIR /public
